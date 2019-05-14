@@ -1,0 +1,232 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AnquetSheet</title>
+  <!-- Bootstrap -->
+  <link href="/static/css/bootstrap-4.0.0.css" rel="stylesheet">
+  <script type="text/javascript">
+    let bookstyle = {
+      "n": 'novel',
+      "r": "refer",
+      "i": "image"
+    };
+
+    function entryOpen() {
+      if (document.getElementById('book-type')) {
+        let target = document.getElementById('book-type').value;
+
+        for (var type in bookstyle) {
+          let formSet = document.getElementsByClassName(bookstyle[type]);
+          for (var i = 0, len = formSet.length; i < len; i++) {
+            if (type == target) {
+              formSet.item(i).style.display = "";
+            } else {
+              formSet.item(i).style.display = "none";
+            }
+          }
+        }
+      }
+    }
+    function swPrevBookShow(){
+      let checkPrevBook = document.getElementById('prevBook');
+      let listPrevBook = document.getElementById('prevRecBooks');
+      let selectZone = document.getElementById("novel-genre-select");
+      console.log(checkPrevBook.checked)
+      if(checkPrevBook.checked == true){
+        listPrevBook.style.display = "";
+        selectZone.style.display = "none";
+      }else{
+        listPrevBook.style.display="none";
+        selectZone.style.display = "";
+      }
+    };
+  </script>
+</head>
+
+<body>
+  <!-- body code goes here -->
+  <!--各対応項目を作成し、jsで表示とパラメータを調整-->
+  <!--各項目に説明を付けること-->
+  <!--アンケートシート部分-->
+  <h1>アンケートシート</h1>
+  <hr>
+  <div class="container-fluid">
+    <form action="/rec" class="" method="POST" name="anqSheet">
+      <div class="form-group preBook" id="usePrevBook">
+        <label> 前回推薦した本を基準に推薦する<input type="checkbox" name="prevBook" id="prevBook"  value="1" onchange="swPrevBookShow()"> </label>
+      </div>
+      <div class="form-group preBook" name="prevRecBooks" id="prevRecBooks">
+        <h3>前回推薦した本の一覧</h3>
+        <select name="prevRecView" onchange="" id="prevRecView">
+          <option value="">{{ prevBook[0] }}</option>
+          <option value="">{{ prevBook[1] }}</option>
+          <option value="">{{ prevBook[2] }}</option>
+        </select>
+      </div>
+      <div class="form-group" id="book-type-select" name="btypeSelect">
+        <h3>本の形態</h3>
+        <p>
+          <select id="book-type" name="btype" onchange="entryOpen()">
+            <option value="n">小説</option>
+            <option value="r">参考書</option>
+            <option value="i">図録</option>
+          </select>
+        </p>
+      </div>
+      <div class="form-group novel" id="novel-genre-select" name="nGenreSelect">
+        <h3>ジャンル選択</h3>
+        <p>
+          <label>
+            <input type="checkbox" name="genreSelect" value="軍事" id="m">
+            軍事</label>
+          <br>
+          <label>
+            <input type="checkbox" name="genreSelect" value="サスペンス" id="s">
+            サスペンス</label>
+          <br>
+          <label>
+            <input type="checkbox" name="genreSelect" value="時代小説" id="j">
+            時代小説</label>
+          <br>
+          <label>
+            <input type="checkbox" name="genreSelect" value="ファンタジー" id="f">
+            ファンタジー</label>
+          <br>
+          <label>
+            <input type="checkbox" name="genreSelect" value="ロマンス" id="r">
+            ロマンス</label>
+          <br>
+          <label>
+            <input type="checkbox" name="genreSelect" value="海外が題材" id="v">
+            海外が題材</label>
+          <br>
+          <label>
+            <input type="checkbox" name="genreSelect" value="ホラー" id="h">
+            ホラー</label>
+          <br>
+          <label>
+            <input type="checkbox" name="genreSelect" value="悲しい話" id="s">
+            悲しい話</label>
+          <br>
+          <label>
+            <input type="checkbox" name="genreSelect" value="温かい話" id="w">
+            温かい話</label>
+          <br>
+        </p>
+      </div>
+      <div class="form-group refer" id="refer-genre-select">
+        <h3>ジャンル選択</h3>
+        作成中
+      </div>
+      <div class="form-group image" id="image-genre-select">
+        <h3>ジャンル選択</h3>
+        作成中
+      </div>
+      <div class="form-group" id="book-score">
+        <h3>本の厚さ</h3>
+        <label for="range">厚さ:</label>
+        <input type="range" name="storyLen" id="range" value="3" min="1" max="5" step="1">
+        <!--ここに出力値に合わせて薄いから厚いまで表示を変化-->
+
+      </div>
+      <div class="form-group novel" id="novel-tempo" name="nBookTempo">
+        <h3>文のテンポ</h3>
+        <label for="range2">テンポ:</label>
+        <input type="range" name="tempo" id="range2" min="1" max="5" step="1" value="3">
+      </div>
+      <div class="form-group refer" id="example-count">
+        <h3>例示の数</h3>
+        作成中
+      </div>
+      <div class="form-group image" id="image-count">
+        <h3>図の数</h3>
+        作成中
+      </div>
+      <div class="form-group" id="rent-out-count" name="rentCount">
+        <h3>貸出回数</h3>
+        <label for="range3">回数:</label>
+        <input type="range" name="rentaCount" id="range3" min="1" max="5" step="1" value="3">
+      </div>
+      <input type="submit" name="" value="推薦">
+    </form>
+    <!--アンケートシートここまで-->
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../static/js/jquery-3.2.1.min.js"></script>
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="/static/js/popper.min.js"></script>
+  <script src="/static/js/bootstrap-4.0.0.js"></script>
+  <script type="text/javascript">
+    //Flaskからの値受け取り
+    let prevAns ={{ prevAns|tojson }}; // 前回の解答
+    console.log(prevAns); // Flask表記
+    let histLoad = function() {
+      if (prevAns.length > 0) {
+        // 値の受け取り
+        let btype = prevAns['btype'];
+        let chosenGenre = prevAns['genreSelect'];
+        let bookLen = prevAns['storyLen'];
+        let tempo = prevAns['tempo'];
+        let count = prevAns['rentaCount'];
+        // 受信の確認
+
+        /*フォームの切り替え*/
+        let prevForm = document.forms.anqSheet;
+        prevForm.btypeSelect.btype.value = btype; //選択部分
+        let formType = document.getElementsByClassName(btype)
+        // ジャンル選択
+        let genreChoose = formType.item(0).getElementsByName('genreSelect')
+        for (var i = 0, len = genreChoose.length; i < len; i++) {
+          var v = genreChoose.item(i).value;
+          for (genre in chosenGenre) {
+            if (v == genre) genreChoose.item(i).checked = True;
+          }
+        }
+        //テンポ
+        let bookTempo = formType.item(1).getElementsByTagName('input');
+        bookTempo.value = tempo;
+
+        //本の長さ
+        let rangeForm = document.getElementsByName('range')
+        rangeForm.value = bookLen;
+
+        //貸出回数
+        let countForm = document.getElementsByName('rentaCount');
+        countForm.value = count;
+
+      } else {
+        console.log('No History');
+      }
+      let preBooksName = {{ prevBook|tojson }}; //前回の推薦データ
+      if (preBooksName.length > 0) {
+        let preBookShowZone = document.getElementById('prevRecView')
+        var optBooks = preBookShowZone.children
+        for (var i = 0; i < optBooks.length; i++){
+          optBooks[i].value = preBooksName[i]
+          console.log(optBooks[i].value)
+        }
+      } else {
+        console.log('No preBooks')
+      }
+      let firstFlag = {{ firstFlag|tojson }}
+      if (firstFlag != 0){
+        console.log('FisrtRecommend');
+        let preBookDiv = document.getElementsByClassName('preBook');
+        for(var i=0; i<preBookDiv.length; i++){
+          preBookDiv.item(i).style.display = "none";
+        }
+      }
+      entryOpen();
+      swPrevBookShow();
+    };
+    window.onload = histLoad;
+  </script>
+
+</body>
+
+</html>

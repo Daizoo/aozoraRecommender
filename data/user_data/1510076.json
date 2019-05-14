@@ -1,0 +1,66 @@
+{
+    "ID": "1510076",
+    "ansHist": [
+        {
+            "storyLen": 3,
+            "tempo": 3,
+            "rentaCount": 3,
+            "prevRecView": "",
+            "genreSelect": [
+                "\u30b5\u30b9\u30da\u30f3\u30b9",
+                "\u6d77\u5916\u304c\u984c\u6750",
+                "\u30db\u30e9\u30fc"
+            ]
+        },
+        {
+            "storyLen": 5,
+            "tempo": 3,
+            "rentaCount": 3,
+            "prevBook": "1",
+            "prevRecView": "kanazuchi.txt",
+            "genreSelect": ""
+        },
+        {
+            "storyLen": 5,
+            "tempo": 3,
+            "rentaCount": 3,
+            "prevBook": "1",
+            "prevRecView": "gen'eino_toshi.txt",
+            "genreSelect": ""
+        }
+    ],
+    "bookHist": [
+        [
+            "kazeno_tayori.txt",
+            "kanazuchi.txt",
+            "shiroganeno_ezu.txt"
+        ],
+        [
+            "gen'eino_toshi.txt",
+            "kagerono_nikki.txt",
+            "joseito.txt"
+        ],
+        [
+            "ikaruga_monogatari.txt",
+            "kagerono_nikki.txt",
+            "haruno_tozoku.txt"
+        ]
+    ],
+    "rentaBook": [
+        [
+            "kazeno_tayori.txt",
+            "kanazuchi.txt",
+            "shiroganeno_ezu.txt"
+        ],
+        [
+            "gen'eino_toshi.txt",
+            "kagerono_nikki.txt",
+            "joseito.txt"
+        ]
+    ],
+    "baseBook": [
+        "esugata.txt",
+        "kanazuchi.txt",
+        "gen'eino_toshi.txt"
+    ]
+}

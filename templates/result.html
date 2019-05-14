@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <title>推薦結果</title>
+  <link href="/static/css/bootstrap-4.0.0.css" rel="stylesheet">
+  <script type="text/javascript">
+    function chooseRecBook(){
+      let resultChoiceZone = document.getElementById("resultChoose");
+      let chosenBook = resultChoiceZone.value;
+      let target1 = document.getElementsByClassName("recBookLink")
+      let target2 = document.getElementsByClassName("recBookContent")
+      for(var i=0; i<3; i++){
+        if(i+1 == chosenBook){
+          target1[i].style.display="";
+          target2[i].style.display="";
+          console.log(chosenBook)
+        }else{
+          target1[i].style.display="none";
+          target2[i].style.display="none";
+        }
+      }
+    }
+    window.onload = chooseRecBook;
+  </script>
+</head>
+
+<body>
+  <div class="result">
+    <div class="result resultSelect">
+      <select class="resultChoose" name="resultChoose" id="resultChoose" onchange="chooseRecBook()">
+        <option value="1">{{ recBooks[0] }}</option>
+        <option value="2">{{ recBooks[1] }}</option>
+        <option value="3">{{ recBooks[2] }}</option>
+      </select>
+    </div>
+    <div class="resultImage">
+      <!-- 結果用の画像を挿入-->
+    </div>
+    <div class="resultPreview">
+      <!-- NOTE: ここに序文を挿入 -->
+      <h3>序文</h3>
+      <div class="recBookContent">
+        {{ recBookContent[0] }}
+      </div>
+      <div class="recBookContent">
+        {{ recBookContent[1] }}
+      </div>
+      <div class="recBookContent">
+        {{ recBookContent[2] }}
+      </div>
+    </div>
+    <div class="Place">
+      <!-- NOTE: ここに配置を挿入 -->
+      <h3>書籍の位置, Webリンク</h3>
+      <div class="recBookLink">
+        <a href={{ recBookLink[0] }}>青空文庫へのリンク</a>
+      </div>
+      <div class="recBookLink">
+        <a href={{ recBookLink[1] }}>青空文庫へのリンク</a>
+      </div>
+      <div class="recBookLink">
+        <a href={{ recBookLink[2] }}>青空文庫へのリンク</a>
+      </div>
+    </div>
+    <form class="" action="/renta" method="post">
+      <h3>借りる本を選択</h3>
+      <input type="hidden" name="id" value={{ ID }}>
+      <label>{{ recBooks[0] }} <input type="checkbox" name="rentaBook" value={{ recBooks[0] }}> </label><br>
+      <label>{{ recBooks[1] }} <input type="checkbox" name="rentaBook" value={{ recBooks[1] }}> </label><br>
+      <label>{{ recBooks[2] }} <input type="checkbox" name="rentaBook" value={{ recBooks[2] }}> </label><br>
+      <input type="submit" name="" value="申請">
+    </form>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../static/js/jquery-3.2.1.min.js"></script>
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="/static/js/popper.min.js"></script>
+  <script src="/static/js/bootstrap-4.0.0.js"></script>
+</body>
+
+</html>

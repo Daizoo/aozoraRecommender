@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>返却図書選択画面</title>
+  </head>
+  <body>
+    <form class="" action="/fbAnq", method="POST">
+      <input type="hidden" name="id" value="{{ ID }}">
+      <h3>返却する図書を選択してください</h3>
+      <ul id="bookList">
+        <!-- NOTE: ここにスクリプトで返却図書一覧を生成 -->
+      </ul>
+      <input type="submit" name="" value="返却">
+    </form>
+  </body>
+  <script type="text/javascript">
+    let bookList = {{ bookList|tojson }};
+    let showList = document.getElementById("bookList");
+
+    for(var i = 0; i<bookList.length; i++){
+      var list = document.createElement("li");
+      var bname = document.createElement("label");
+      var cbox = document.createElement("input");
+      // チェックボックスの中身
+      cbox.type = "checkbox";
+      cbox.value = bookList[i];
+      cbox.name = "selectReturnBook";
+      //ラベウルの中身
+      bname.innerText = bookList[i]
+      //入れ子で追加
+      bname.appendChild(cbox)
+      list.appendChild(bname)
+      showList.appendChild(list)
+    }
+  </script>
+</html>

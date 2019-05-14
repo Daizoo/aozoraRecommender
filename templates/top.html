@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="ja">
+
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>AnquetSheet</title>
+  <!-- Bootstrap -->
+  <link href="/static/css/bootstrap-4.0.0.css" rel="stylesheet">
+  <title>推薦システムトップ</title>
+</head>
+
+<body>
+  <form class="form-group" action="/anq" method="post">
+    <div class="idInupt form-group">
+      <label>利用者ID<input type="text" name="id" value="" required></label>
+    </div>
+    <div class="recType">
+      <label>初回利用<input type="radio" name="recType" value="0"></label>
+      <label>2回目以降の利用<input type="radio" name="recType" value="1"></label>
+    </div>
+    <input type="submit" name="" value="推薦">
+  </form>
+  <div class="">
+    <a href="/return">返却はこちら</a>
+  </div>
+  <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
+  <script src="../static/js/jquery-3.2.1.min.js"></script>
+
+  <!-- Include all compiled plugins (below), or include individual files as needed -->
+  <script src="/static/js/popper.min.js"></script>
+  <script src="/static/js/bootstrap-4.0.0.js"></script>
+</body>
+
+</html>

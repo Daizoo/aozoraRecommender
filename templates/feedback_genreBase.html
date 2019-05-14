@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="ja">
+  <head>
+    <meta charset="utf-8">
+    <title>フィードバックアンケート</title>
+  </head>
+  <body>
+    <h3>前回、選択していただいたジャンルはこちら</h3>
+    <p>{{ chooseGenre }}</p>
+    <form class="" action="/fb" method="post" id="fbAnq">
+      <input type="hidden" name="baseBook" value="{{ baseBook }}">
+      <input type="hidden" name="returnBookNum" value="{{ count }}">
+      <!-- NOTE: ここにフォームを自動生成 -->
+    </form>
+    <script type="text/javascript">
+      let tempo = {{ tempo|tojson }}
+      let bookList = {{ bookList|tojson }}
+
+      //フォーム生成
+      let anqForm = document.getElementById("fbAnq");
+      for(var i=0; i<bookList.length; i++){
+        //書籍データ埋め込み
+        var bData = document.createElement("input");
+        var anqPartTitle = document.createElement("h5");
+        anqPartTitle.innerText = "次の本について質問します: "+bookList[i];
+        bData.type="hidden";
+        bData.name="bName_"+i, bData.value=bookList[i];
+        anqForm.appendChild(bData);
+        //質問1
+        var quest1 = document.createElement("label");
+        quest1.innerText="要求した本のジャンルでしたか?";
+        var answer1 = document.createElement("input");
+        answer1.type="range";
+        answer1.min=1, answer1.max=5, answer1.step=1;
+        answer1.value=3;
+        answer1.name="genreSame_"+i;
+        var rl = document.createElement("br");
+        quest1.appendChild(rl);
+        quest1.appendChild(answer1);
+        anqForm.appendChild(quest1);
+        var rl = document.createElement("br");
+        anqForm.appendChild(rl);
+        //質問2
+        var quest2 = document.createElement("label");
+        quest2.innerHTML="要求したテンポと比較してどう感じましたか?: "+tempo;
+        var answer2 = document.createElement("input");
+        answer2.type="range";
+        answer2.min=1, answer2.max=5;
+        answer2.value=3, answer2.step=1;
+        answer2.name="tempoCompare_"+i;
+        var rl = document.createElement("br");
+        quest2.appendChild(rl);
+        quest2.appendChild(answer2);
+        anqForm.appendChild(quest2);
+        var rl = document.createElement("br");
+        anqForm.appendChild(rl);
+      }
+      //送信ボタン
+      let subbtn = document.createElement("input");
+      subbtn.type="submit";
+      subbtn.value="送信"
+      anqForm.appendChild(subbtn)
+    </script>
+  </body>
+</html>

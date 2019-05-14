@@ -1,0 +1,1106 @@
+{
+    "guryukkusuburugu_oshitsu_ibun": {
+        "Title": "\u30b0\u30ea\u30e5\u30c3\u30af\u30b9\u30d6\u30eb\u30b0\u738b\u5ba4\u7570\u805e",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001397/files/51249_62850.html"
+        ],
+        "Full": "./data/book_data/full/guryukkusuburugu_oshitsu_ibun.txt",
+        "Half": "./data/book_data/half/guryukkusuburugu_oshitsu_ibun.txt",
+        "binData": "./data/book_data/binary/guryukkusuburugu_oshitsu_ibun.pickle"
+    },
+    "shiroganeno_ezu": {
+        "Title": "\u767d\u91d1\u4e4b\u7d75\u56f3",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000050/files/3656_26097.html"
+        ],
+        "Full": "./data/book_data/full/shiroganeno_ezu.txt",
+        "Half": "./data/book_data/half/shiroganeno_ezu.txt",
+        "binData": "./data/book_data/binary/shiroganeno_ezu.pickle"
+    },
+    "esugata": {
+        "Title": "\u7d75\u59ff",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000020/files/2223_28386.html",
+            "https://www.aozora.gr.jp/cards/000020/files/2223_28386.html"
+        ],
+        "Full": "./data/book_data/full/esugata.txt",
+        "Half": "./data/book_data/half/esugata.txt",
+        "binData": "./data/book_data/binary/esugata.pickle"
+    },
+    "yukinojo_henge": {
+        "Title": "\u96ea\u4e4b\u4e1e\u5909\u5316",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000310/files/1911_50609.html"
+        ],
+        "Full": "./data/book_data/full/yukinojo_henge.txt",
+        "Half": "./data/book_data/half/yukinojo_henge.txt",
+        "binData": "./data/book_data/binary/yukinojo_henge.pickle"
+    },
+    "uchu_bakugeki": {
+        "Title": "\u5b87\u5b99\u7206\u6483",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000325/files/2194_25513.html"
+        ],
+        "Full": "./data/book_data/full/uchu_bakugeki.txt",
+        "Half": "./data/book_data/half/uchu_bakugeki.txt",
+        "binData": "./data/book_data/binary/uchu_bakugeki.pickle"
+    },
+    "kaijin_nijumenso": {
+        "Title": "\u602a\u4eba\u4e8c\u5341\u9762\u76f8",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001779/files/57228_58735.html"
+        ],
+        "Full": "./data/book_data/full/kaijin_nijumenso.txt",
+        "Half": "./data/book_data/half/kaijin_nijumenso.txt",
+        "binData": "./data/book_data/binary/kaijin_nijumenso.pickle"
+    },
+    "uchu_sentai": {
+        "Title": "\u5b87\u5b99\u6226\u968a",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000160/files/3367_13498.html"
+        ],
+        "Full": "./data/book_data/full/uchu_sentai.txt",
+        "Half": "./data/book_data/half/uchu_sentai.txt",
+        "binData": "./data/book_data/binary/uchu_sentai.pickle"
+    },
+    "rogokuno_hanayome": {
+        "Title": "\u7262\u7344\u306e\u82b1\u5ac1",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001562/files/56046_60462.html"
+        ],
+        "Full": "./data/book_data/full/rogokuno_hanayome.txt",
+        "Half": "./data/book_data/half/rogokuno_hanayome.txt",
+        "binData": "./data/book_data/binary/rogokuno_hanayome.pickle"
+    },
+    "shogun": {
+        "Title": "\u5c06\u8ecd",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000879/files/156_15202.html"
+        ],
+        "Full": "./data/book_data/full/shogun.txt",
+        "Half": "./data/book_data/half/shogun.txt",
+        "binData": "./data/book_data/binary/shogun.pickle"
+    },
+    "ippeisotsu": {
+        "Title": "\u4e00\u5175\u5352",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000214/files/1066_43394.html"
+        ],
+        "Full": "./data/book_data/full/ippeisotsu.txt",
+        "Half": "./data/book_data/half/ippeisotsu.txt",
+        "binData": "./data/book_data/binary/ippeisotsu.pickle"
+    },
+    "ikaruga_monogatari": {
+        "Title": "\u6591\u9ce9\u7269\u8a9e",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001310/files/49627_53341.html"
+        ],
+        "Full": "./data/book_data/full/ikaruga_monogatari.txt",
+        "Half": "./data/book_data/half/ikaruga_monogatari.txt",
+        "binData": "./data/book_data/binary/ikaruga_monogatari.pickle"
+    },
+    "oshio_heihachiro": {
+        "Title": "\u5927\u5869\u5e73\u516b\u90ce",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000129/files/2298_16910.html"
+        ],
+        "Full": "./data/book_data/full/oshio_heihachiro.txt",
+        "Half": "./data/book_data/half/oshio_heihachiro.txt",
+        "binData": "./data/book_data/binary/oshio_heihachiro.pickle"
+    },
+    "genjutsu_tenma_taro": {
+        "Title": "\u5e7b\u8853\u5929\u9b54\u592a\u90ce",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001670/files/56097_56992.html"
+        ],
+        "Full": "./data/book_data/full/genjutsu_tenma_taro.txt",
+        "Half": "./data/book_data/half/genjutsu_tenma_taro.txt",
+        "binData": "./data/book_data/binary/genjutsu_tenma_taro.pickle"
+    },
+    "nisshinsenso_ibun": {
+        "Title": "\u65e5\u6e05\u6226\u4e89\u7570\u805e",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000067/files/1771_45449.html"
+        ],
+        "Full": "./data/book_data/full/nisshinsenso_ibun.txt",
+        "Half": "./data/book_data/half/nisshinsenso_ibun.txt",
+        "binData": "./data/book_data/binary/nisshinsenso_ibun.pickle"
+    },
+    "mayukakushino_rei": {
+        "Title": "\u7709\u304b\u304f\u3057\u306e\u970a",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000050/files/1174_20553.html"
+        ],
+        "Full": "./data/book_data/full/mayukakushino_rei.txt",
+        "Half": "./data/book_data/half/mayukakushino_rei.txt",
+        "binData": "./data/book_data/binary/mayukakushino_rei.pickle"
+    },
+    "senun'o_karu_jokai": {
+        "Title": "\u6226\u96f2\u3092\u99c6\u308b\u5973\u602a",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000304/files/1878_24292.html"
+        ],
+        "Full": "./data/book_data/full/senun'o_karu_jokai.txt",
+        "Half": "./data/book_data/half/senun'o_karu_jokai.txt",
+        "binData": "./data/book_data/binary/senun'o_karu_jokai.pickle"
+    },
+    "ukano_choja_monogatari": {
+        "Title": "\u5b87\u8cc0\u9577\u8005\u7269\u8a9e",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000154/files/52287_47940.html"
+        ],
+        "Full": "./data/book_data/full/ukano_choja_monogatari.txt",
+        "Half": "./data/book_data/half/ukano_choja_monogatari.txt",
+        "binData": "./data/book_data/binary/ukano_choja_monogatari.pickle"
+    },
+    "eihondo_joriku": {
+        "Title": "\u82f1\u672c\u571f\u4e0a\u9678\u6226\u306e\u524d\u591c",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000160/files/3356_14010.html"
+        ],
+        "Full": "./data/book_data/full/eihondo_joriku.txt",
+        "Half": "./data/book_data/half/eihondo_joriku.txt",
+        "binData": "./data/book_data/binary/eihondo_joriku.pickle"
+    },
+    "majutsu": {
+        "Title": "\u9b54\u8853",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000879/files/95_15247.html"
+        ],
+        "Full": "./data/book_data/full/majutsu.txt",
+        "Half": "./data/book_data/half/majutsu.txt",
+        "binData": "./data/book_data/binary/majutsu.pickle"
+    },
+    "osakabe_hime": {
+        "Title": "\u5c0f\u5742\u90e8\u59eb",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000082/files/48035_45854.html"
+        ],
+        "Full": "./data/book_data/full/osakabe_hime.txt",
+        "Half": "./data/book_data/half/osakabe_hime.txt",
+        "binData": "./data/book_data/binary/osakabe_hime.pickle"
+    },
+    "tamamono_mae": {
+        "Title": "\u7389\u85fb\u306e\u524d",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000082/files/480_39601.html"
+        ],
+        "Full": "./data/book_data/full/tamamono_mae.txt",
+        "Half": "./data/book_data/half/tamamono_mae.txt",
+        "binData": "./data/book_data/binary/tamamono_mae.pickle"
+    },
+    "ichikatei": {
+        "Title": "\u4e00\u904e\u7a0b",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000008/files/47361_38505.html"
+        ],
+        "Full": "./data/book_data/full/ichikatei.txt",
+        "Half": "./data/book_data/half/ichikatei.txt",
+        "binData": "./data/book_data/binary/ichikatei.pickle"
+    },
+    "amentia": {
+        "Title": "\u3042\u3081\u3093\u3061\u3042",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000282/files/1714_31451.html"
+        ],
+        "Full": "./data/book_data/full/amentia.txt",
+        "Half": "./data/book_data/half/amentia.txt",
+        "binData": "./data/book_data/binary/amentia.pickle"
+    },
+    "abe_ichizoku": {
+        "Title": "\u963f\u90e8\u4e00\u65cf",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000129/files/673_23255.html"
+        ],
+        "Full": "./data/book_data/full/abe_ichizoku.txt",
+        "Half": "./data/book_data/half/abe_ichizoku.txt",
+        "binData": "./data/book_data/binary/abe_ichizoku.pickle"
+    },
+    "kokukoku": {
+        "Title": "\u523b\u3005",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000311/files/1986_6520.html"
+        ],
+        "Full": "./data/book_data/full/kokukoku.txt",
+        "Half": "./data/book_data/half/kokukoku.txt",
+        "binData": "./data/book_data/binary/kokukoku.pickle"
+    },
+    "doji": {
+        "Title": "\u7ae5\u5b50",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001579/files/53176_51509.html"
+        ],
+        "Full": "./data/book_data/full/doji.txt",
+        "Half": "./data/book_data/half/doji.txt",
+        "binData": "./data/book_data/binary/doji.pickle"
+    },
+    "11daijuichiwa_chiyodajoe_norikonda_taikutsuotoko": {
+        "Title": "\u65d7\u672c\u9000\u5c48\u7537",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000111/files/565_53915.html",
+            "https://www.aozora.gr.jp/cards/000111/files/566_53916.html",
+            "https://www.aozora.gr.jp/cards/000111/files/567_53917.html",
+            "https://www.aozora.gr.jp/cards/000111/files/568_53918.html",
+            "https://www.aozora.gr.jp/cards/000111/files/1479_53919.html",
+            "https://www.aozora.gr.jp/cards/000111/files/1474_53920.html",
+            "https://www.aozora.gr.jp/cards/000111/files/1475_53921.html",
+            "https://www.aozora.gr.jp/cards/000111/files/1480_53922.html",
+            "https://www.aozora.gr.jp/cards/000111/files/1476_53923.html",
+            "https://www.aozora.gr.jp/cards/000111/files/1477_53924.html",
+            "https://www.aozora.gr.jp/cards/000111/files/1478_53925.html"
+        ],
+        "Full": "./data/book_data/full/11daijuichiwa_chiyodajoe_norikonda_taikutsuotoko.txt",
+        "Half": "./data/book_data/half/11daijuichiwa_chiyodajoe_norikonda_taikutsuotoko.txt",
+        "binData": "./data/book_data/binary/11daijuichiwa_chiyodajoe_norikonda_taikutsuotoko.pickle"
+    },
+    "jonikuo_ryorisuru_otoko": {
+        "Title": "\u5973\u8089\u3092\u6599\u7406\u3059\u308b\u7537",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000304/files/1876_22503.html"
+        ],
+        "Full": "./data/book_data/full/jonikuo_ryorisuru_otoko.txt",
+        "Half": "./data/book_data/half/jonikuo_ryorisuru_otoko.txt",
+        "binData": "./data/book_data/binary/jonikuo_ryorisuru_otoko.pickle"
+    },
+    "kingyo_ryoran": {
+        "Title": "\u91d1\u9b5a\u64a9\u4e71",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000076/files/1279_9311.html"
+        ],
+        "Full": "./data/book_data/full/kingyo_ryoran.txt",
+        "Half": "./data/book_data/half/kingyo_ryoran.txt",
+        "binData": "./data/book_data/binary/kingyo_ryoran.pickle"
+    },
+    "kanzenchoaku": {
+        "Title": "\u52e7\u5584\u61f2\u60aa",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000040/files/46171_23899.html"
+        ],
+        "Full": "./data/book_data/full/kanzenchoaku.txt",
+        "Half": "./data/book_data/half/kanzenchoaku.txt",
+        "binData": "./data/book_data/binary/kanzenchoaku.pickle"
+    },
+    "haguruma": {
+        "Title": "\u6b6f\u8eca",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000879/files/40_15151.html",
+            "https://www.aozora.gr.jp/cards/000879/files/42377_34745.html"
+        ],
+        "Full": "./data/book_data/full/haguruma.txt",
+        "Half": "./data/book_data/half/haguruma.txt",
+        "binData": "./data/book_data/binary/haguruma.pickle"
+    },
+    "jigoku": {
+        "Title": "\u5730\u7344",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001157/files/49845_46684.html"
+        ],
+        "Full": "./data/book_data/full/jigoku.txt",
+        "Half": "./data/book_data/half/jigoku.txt",
+        "binData": "./data/book_data/binary/jigoku.pickle"
+    },
+    "juhachijino_ongakuyoku": {
+        "Title": "\u5341\u516b\u6642\u306e\u97f3\u697d\u6d74",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000160/files/865_23818.html"
+        ],
+        "Full": "./data/book_data/full/juhachijino_ongakuyoku.txt",
+        "Half": "./data/book_data/half/juhachijino_ongakuyoku.txt",
+        "binData": "./data/book_data/binary/juhachijino_ongakuyoku.pickle"
+    },
+    "daredemonai": {
+        "Title": "\u8ab0\u3067\u3082\u306a\u3044\u2026\u2026\u81ea\u5206\u3067\u3082\u306a\u3044",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001154/files/44301_45076.html"
+        ],
+        "Full": "./data/book_data/full/daredemonai.txt",
+        "Half": "./data/book_data/half/daredemonai.txt",
+        "binData": "./data/book_data/binary/daredemonai.pickle"
+    },
+    "hodo": {
+        "Title": "\u8217\u9053",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000311/files/1983_6517.html"
+        ],
+        "Full": "./data/book_data/full/hodo.txt",
+        "Half": "./data/book_data/half/hodo.txt",
+        "binData": "./data/book_data/binary/hodo.pickle"
+    },
+    "koya_hijiri": {
+        "Title": "\u9ad8\u91ce\u8056",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000050/files/43466_26099.html",
+            "https://www.aozora.gr.jp/cards/000050/files/521_20583.html",
+            "https://www.aozora.gr.jp/cards/000050/files/43466_26099.html"
+        ],
+        "Full": "./data/book_data/full/koya_hijiri.txt",
+        "Half": "./data/book_data/half/koya_hijiri.txt",
+        "binData": "./data/book_data/binary/koya_hijiri.pickle"
+    },
+    "joseito": {
+        "Title": "\u5973\u751f\u5f92",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000035/files/275_13903.html"
+        ],
+        "Full": "./data/book_data/full/joseito.txt",
+        "Half": "./data/book_data/half/joseito.txt",
+        "binData": "./data/book_data/binary/joseito.pickle"
+    },
+    "koki": {
+        "Title": "\u5751\u9b3c",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000236/files/46609_28163.html"
+        ],
+        "Full": "./data/book_data/full/koki.txt",
+        "Half": "./data/book_data/half/koki.txt",
+        "binData": "./data/book_data/binary/koki.pickle"
+    },
+    "hadesugata_mannen_wakashu": {
+        "Title": "\u8276\u5bb9\u4e07\u5e74\u82e5\u8846",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000310/files/55137_53585.html"
+        ],
+        "Full": "./data/book_data/full/hadesugata_mannen_wakashu.txt",
+        "Half": "./data/book_data/half/hadesugata_mannen_wakashu.txt",
+        "binData": "./data/book_data/binary/hadesugata_mannen_wakashu.pickle"
+    },
+    "daiichigino_michi": {
+        "Title": "\u7b2c\u4e00\u7fa9\u306e\u9053",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000008/files/47374_40181.html"
+        ],
+        "Full": "./data/book_data/full/daiichigino_michi.txt",
+        "Half": "./data/book_data/half/daiichigino_michi.txt",
+        "binData": "./data/book_data/binary/daiichigino_michi.pickle"
+    },
+    "ekifu_nikki": {
+        "Title": "\u99c5\u592b\u65e5\u8a18",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000956/files/46645_26142.html"
+        ],
+        "Full": "./data/book_data/full/ekifu_nikki.txt",
+        "Half": "./data/book_data/half/ekifu_nikki.txt",
+        "binData": "./data/book_data/binary/ekifu_nikki.pickle"
+    },
+    "birodo": {
+        "Title": "\u5929\u9d5e\u7d68",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000153/files/45469_33289.html",
+            "https://www.aozora.gr.jp/cards/000153/files/4103_9484.html"
+        ],
+        "Full": "./data/book_data/full/birodo.txt",
+        "Half": "./data/book_data/half/birodo.txt",
+        "binData": "./data/book_data/binary/birodo.pickle"
+    },
+    "kagaribino_onna": {
+        "Title": "\u7bdd\u706b\u306e\u5973",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001562/files/56068_53044.html"
+        ],
+        "Full": "./data/book_data/full/kagaribino_onna.txt",
+        "Half": "./data/book_data/half/kagaribino_onna.txt",
+        "binData": "./data/book_data/binary/kagaribino_onna.pickle"
+    },
+    "hoeifunka": {
+        "Title": "\u5b9d\u6c38\u5674\u706b",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000076/files/50626_47990.html"
+        ],
+        "Full": "./data/book_data/full/hoeifunka.txt",
+        "Half": "./data/book_data/half/hoeifunka.txt",
+        "binData": "./data/book_data/binary/hoeifunka.pickle"
+    },
+    "kojiki_gakusei": {
+        "Title": "\u4e5e\u98df\u5b66\u751f",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000035/files/285_15065.html"
+        ],
+        "Full": "./data/book_data/full/kojiki_gakusei.txt",
+        "Half": "./data/book_data/half/kojiki_gakusei.txt",
+        "binData": "./data/book_data/binary/kojiki_gakusei.pickle"
+    },
+    "irieno_hotori": {
+        "Title": "\u5165\u6c5f\u306e\u307b\u3068\u308a",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001581/files/53030_57427.html",
+            "https://www.aozora.gr.jp/cards/001581/files/57319_66116.html"
+        ],
+        "Full": "./data/book_data/full/irieno_hotori.txt",
+        "Half": "./data/book_data/half/irieno_hotori.txt",
+        "binData": "./data/book_data/binary/irieno_hotori.pickle"
+    },
+    "bakeicho": {
+        "Title": "\u5316\u9280\u674f",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000050/files/4264_23652.html"
+        ],
+        "Full": "./data/book_data/full/bakeicho.txt",
+        "Half": "./data/book_data/half/bakeicho.txt",
+        "binData": "./data/book_data/binary/bakeicho.pickle"
+    },
+    "aruonnano_shogai": {
+        "Title": "\u3042\u308b\u5973\u306e\u751f\u6daf",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000158/files/4623_31218.html"
+        ],
+        "Full": "./data/book_data/full/aruonnano_shogai.txt",
+        "Half": "./data/book_data/half/aruonnano_shogai.txt",
+        "binData": "./data/book_data/binary/aruonnano_shogai.pickle"
+    },
+    "haruno_ushio": {
+        "Title": "\u6625\u306e\u6f6e",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000058/files/1197_33298.html"
+        ],
+        "Full": "./data/book_data/full/haruno_ushio.txt",
+        "Half": "./data/book_data/half/haruno_ushio.txt",
+        "binData": "./data/book_data/binary/haruno_ushio.pickle"
+    },
+    "chazuke_sanryaku": {
+        "Title": "\u8336\u6f2c\u4e09\u7565",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001562/files/52453_49999.html"
+        ],
+        "Full": "./data/book_data/full/chazuke_sanryaku.txt",
+        "Half": "./data/book_data/half/chazuke_sanryaku.txt",
+        "binData": "./data/book_data/binary/chazuke_sanryaku.pickle"
+    },
+    "kokuten": {
+        "Title": "\u9ed2\u70b9",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000906/files/42444_33343.html"
+        ],
+        "Full": "./data/book_data/full/kokuten.txt",
+        "Half": "./data/book_data/half/kokuten.txt",
+        "binData": "./data/book_data/binary/kokuten.pickle"
+    },
+    "chibusa": {
+        "Title": "\u4e73\u623f",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000311/files/1991_6525.html"
+        ],
+        "Full": "./data/book_data/full/chibusa.txt",
+        "Half": "./data/book_data/half/chibusa.txt",
+        "binData": "./data/book_data/binary/chibusa.pickle"
+    },
+    "gin_sanjumai": {
+        "Title": "\u9280\u4e09\u5341\u679a",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000255/files/43769_18608.html"
+        ],
+        "Full": "./data/book_data/full/gin_sanjumai.txt",
+        "Half": "./data/book_data/half/gin_sanjumai.txt",
+        "binData": "./data/book_data/binary/gin_sanjumai.pickle"
+    },
+    "dokeno_hana": {
+        "Title": "\u9053\u5316\u306e\u83ef",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000035/files/255_15100.html"
+        ],
+        "Full": "./data/book_data/full/dokeno_hana.txt",
+        "Half": "./data/book_data/half/dokeno_hana.txt",
+        "binData": "./data/book_data/binary/dokeno_hana.pickle"
+    },
+    "gen'eino_toshi": {
+        "Title": "\u5e7b\u5f71\u306e\u90fd\u5e02",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001579/files/53171_53128.html"
+        ],
+        "Full": "./data/book_data/full/gen'eino_toshi.txt",
+        "Half": "./data/book_data/half/gen'eino_toshi.txt",
+        "binData": "./data/book_data/binary/gen'eino_toshi.pickle"
+    },
+    "kageroza": {
+        "Title": "\u967d\u708e\u5ea7",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000050/files/3651_26098.html"
+        ],
+        "Full": "./data/book_data/full/kageroza.txt",
+        "Half": "./data/book_data/half/kageroza.txt",
+        "binData": "./data/book_data/binary/kageroza.pickle"
+    },
+    "dokuke": {
+        "Title": "\u6bd2\u6c17",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000183/files/45415_39366.html"
+        ],
+        "Full": "./data/book_data/full/dokuke.txt",
+        "Half": "./data/book_data/half/dokuke.txt",
+        "binData": "./data/book_data/binary/dokuke.pickle"
+    },
+    "arufufuno_rekishi": {
+        "Title": "\u3042\u308b\u592b\u5a66\u306e\u6b74\u53f2",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001154/files/44302_45073.html"
+        ],
+        "Full": "./data/book_data/full/arufufuno_rekishi.txt",
+        "Half": "./data/book_data/half/arufufuno_rekishi.txt",
+        "binData": "./data/book_data/binary/arufufuno_rekishi.pickle"
+    },
+    "kabanrashikunai_kaban": {
+        "Title": "\u9784\u3089\u3057\u304f\u306a\u3044\u9784",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000160/files/2637_23919.html"
+        ],
+        "Full": "./data/book_data/full/kabanrashikunai_kaban.txt",
+        "Half": "./data/book_data/half/kabanrashikunai_kaban.txt",
+        "binData": "./data/book_data/binary/kabanrashikunai_kaban.pickle"
+    },
+    "karega_koroshitaka": {
+        "Title": "\u5f7c\u304c\u6bba\u3057\u305f\u304b",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000289/files/51271_47964.html"
+        ],
+        "Full": "./data/book_data/full/karega_koroshitaka.txt",
+        "Half": "./data/book_data/half/karega_koroshitaka.txt",
+        "binData": "./data/book_data/binary/karega_koroshitaka.pickle"
+    },
+    "ikudomekano_saigo": {
+        "Title": "\u5e7e\u5ea6\u76ee\u304b\u306e\u6700\u671f",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001052/files/4970_18639.html"
+        ],
+        "Full": "./data/book_data/full/ikudomekano_saigo.txt",
+        "Half": "./data/book_data/half/ikudomekano_saigo.txt",
+        "binData": "./data/book_data/binary/ikudomekano_saigo.pickle"
+    },
+    "chumoncho": {
+        "Title": "\u8a3b\u6587\u5e33",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000050/files/48408_35165.html"
+        ],
+        "Full": "./data/book_data/full/chumoncho.txt",
+        "Half": "./data/book_data/half/chumoncho.txt",
+        "binData": "./data/book_data/binary/chumoncho.pickle"
+    },
+    "akumano_deshi": {
+        "Title": "\u60aa\u9b54\u306e\u5f1f\u5b50",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000289/files/51270_47963.html"
+        ],
+        "Full": "./data/book_data/full/akumano_deshi.txt",
+        "Half": "./data/book_data/half/akumano_deshi.txt",
+        "binData": "./data/book_data/binary/akumano_deshi.pickle"
+    },
+    "akujuhen": {
+        "Title": "\u60aa\u7363\u7bc7",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000050/files/4563_24909.html"
+        ],
+        "Full": "./data/book_data/full/akujuhen.txt",
+        "Half": "./data/book_data/half/akujuhen.txt",
+        "binData": "./data/book_data/binary/akujuhen.pickle"
+    },
+    "kappa": {
+        "Title": "\u6cb3\u7ae5",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000879/files/69_14933.html",
+            "https://www.aozora.gr.jp/cards/000879/files/45761_39095.html"
+        ],
+        "Full": "./data/book_data/full/kappa.txt",
+        "Half": "./data/book_data/half/kappa.txt",
+        "binData": "./data/book_data/binary/kappa.pickle"
+    },
+    "kaimetsunojokyoku_shinkana": {
+        "Title": "\u58ca\u6ec5\u306e\u5e8f\u66f2",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000293/files/4748_6651.html",
+            "https://www.aozora.gr.jp/cards/000293/files/1853_7028.html"
+        ],
+        "Full": "./data/book_data/full/kaimetsunojokyoku_shinkana.txt",
+        "Half": "./data/book_data/half/kaimetsunojokyoku_shinkana.txt",
+        "binData": "./data/book_data/binary/kaimetsunojokyoku_shinkana.pickle"
+    },
+    "kumokiri_enmacho": {
+        "Title": "\u96f2\u9727\u95bb\u9b54\u5e33",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001562/files/52444_49989.html"
+        ],
+        "Full": "./data/book_data/full/kumokiri_enmacho.txt",
+        "Half": "./data/book_data/half/kumokiri_enmacho.txt",
+        "binData": "./data/book_data/binary/kumokiri_enmacho.pickle"
+    },
+    "aru_shojono_shimade": {
+        "Title": "\u6216\u308b\u5c11\u5973\u306e\u6b7b\u307e\u3067",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001579/files/53011_49718.html"
+        ],
+        "Full": "./data/book_data/full/aru_shojono_shimade.txt",
+        "Half": "./data/book_data/half/aru_shojono_shimade.txt",
+        "binData": "./data/book_data/binary/aru_shojono_shimade.pickle"
+    },
+    "chinkonka": {
+        "Title": "\u93ae\u9b42\u6b4c",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000293/files/4755_6706.html",
+            "https://www.aozora.gr.jp/cards/000293/files/1855_21715.html"
+        ],
+        "Full": "./data/book_data/full/chinkonka.txt",
+        "Half": "./data/book_data/half/chinkonka.txt",
+        "binData": "./data/book_data/binary/chinkonka.pickle"
+    },
+    "kagerono_nikki": {
+        "Title": "\u304b\u3052\u308d\u3046\u306e\u65e5\u8a18",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001030/files/4801_14950.html"
+        ],
+        "Full": "./data/book_data/full/kagerono_nikki.txt",
+        "Half": "./data/book_data/half/kagerono_nikki.txt",
+        "binData": "./data/book_data/binary/kagerono_nikki.pickle"
+    },
+    "ketsuekigata_satsujinjiken": {
+        "Title": "\u8840\u6db2\u578b\u6bba\u4eba\u4e8b\u4ef6",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000260/files/43420_16914.html"
+        ],
+        "Full": "./data/book_data/full/ketsuekigata_satsujinjiken.txt",
+        "Half": "./data/book_data/half/ketsuekigata_satsujinjiken.txt",
+        "binData": "./data/book_data/binary/ketsuekigata_satsujinjiken.pickle"
+    },
+    "haruno_tozoku": {
+        "Title": "\u6625\u306e\u76d7\u8cca",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000035/files/266_20031.html"
+        ],
+        "Full": "./data/book_data/full/haruno_tozoku.txt",
+        "Half": "./data/book_data/half/haruno_tozoku.txt",
+        "binData": "./data/book_data/binary/haruno_tozoku.pickle"
+    },
+    "dosenkai_jihen": {
+        "Title": "\u9285\u92ad\u4f1a\u4e8b\u5909",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000255/files/43662_17898.html"
+        ],
+        "Full": "./data/book_data/full/dosenkai_jihen.txt",
+        "Half": "./data/book_data/half/dosenkai_jihen.txt",
+        "binData": "./data/book_data/binary/dosenkai_jihen.pickle"
+    },
+    "fukagawa_nyobo": {
+        "Title": "\u6df1\u5ddd\u5973\u623f",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000241/files/46647_26140.html"
+        ],
+        "Full": "./data/book_data/full/fukagawa_nyobo.txt",
+        "Half": "./data/book_data/half/fukagawa_nyobo.txt",
+        "binData": "./data/book_data/binary/fukagawa_nyobo.pickle"
+    },
+    "arashi": {
+        "Title": "\u5d50",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000158/files/1511_20470.html",
+            "https://www.aozora.gr.jp/cards/000042/files/24390_14052.html"
+        ],
+        "Full": "./data/book_data/full/arashi.txt",
+        "Half": "./data/book_data/half/arashi.txt",
+        "binData": "./data/book_data/binary/arashi.pickle"
+    },
+    "ayakashino_tuzumi": {
+        "Title": "\u3042\u3084\u304b\u3057\u306e\u9f13",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000096/files/531_13345.html"
+        ],
+        "Full": "./data/book_data/full/ayakashino_tuzumi.txt",
+        "Half": "./data/book_data/half/ayakashino_tuzumi.txt",
+        "binData": "./data/book_data/binary/ayakashino_tuzumi.pickle"
+    },
+    "jashumon": {
+        "Title": "\u90aa\u5b97\u9580",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000879/files/59_14480.html",
+            "https://www.aozora.gr.jp/cards/000106/files/4850_13918.html"
+        ],
+        "Full": "./data/book_data/full/jashumon.txt",
+        "Half": "./data/book_data/half/jashumon.txt",
+        "binData": "./data/book_data/binary/jashumon.pickle"
+    },
+    "gansekino_aida": {
+        "Title": "\u5ca9\u77f3\u306e\u9593",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000158/files/836_23277.html"
+        ],
+        "Full": "./data/book_data/full/gansekino_aida.txt",
+        "Half": "./data/book_data/half/gansekino_aida.txt",
+        "binData": "./data/book_data/binary/gansekino_aida.pickle"
+    },
+    "juemonno_saigo": {
+        "Title": "\u91cd\u53f3\u885b\u9580\u306e\u6700\u5f8c",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000214/files/4712_16389.html"
+        ],
+        "Full": "./data/book_data/full/juemonno_saigo.txt",
+        "Half": "./data/book_data/half/juemonno_saigo.txt",
+        "binData": "./data/book_data/binary/juemonno_saigo.pickle"
+    },
+    "hinotori_kyukana": {
+        "Title": "\u706b\u306e\u9ce5",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000035/files/268_15083.html",
+            "https://www.aozora.gr.jp/cards/000035/files/269_15082.html"
+        ],
+        "Full": "./data/book_data/full/hinotori_kyukana.txt",
+        "Half": "./data/book_data/half/hinotori_kyukana.txt",
+        "binData": "./data/book_data/binary/hinotori_kyukana.pickle"
+    },
+    "chiwa_yutakanai": {
+        "Title": "\u5730\u306f\u9952\u306a\u308a",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000311/files/2030_49542.html"
+        ],
+        "Full": "./data/book_data/full/chiwa_yutakanai.txt",
+        "Half": "./data/book_data/half/chiwa_yutakanai.txt",
+        "binData": "./data/book_data/binary/chiwa_yutakanai.pickle"
+    },
+    "kahaku_reijo": {
+        "Title": "\u6cb3\u4f2f\u4ee4\u5b22",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000050/files/48392_44380.html"
+        ],
+        "Full": "./data/book_data/full/kahaku_reijo.txt",
+        "Half": "./data/book_data/half/kahaku_reijo.txt",
+        "binData": "./data/book_data/binary/kahaku_reijo.pickle"
+    },
+    "aburajigoku": {
+        "Title": "\u6cb9\u5730\u7344",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000565/files/51949_57072.html"
+        ],
+        "Full": "./data/book_data/full/aburajigoku.txt",
+        "Half": "./data/book_data/half/aburajigoku.txt",
+        "binData": "./data/book_data/binary/aburajigoku.pickle"
+    },
+    "jimushi": {
+        "Title": "\u5730\u866b",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000125/files/43678_50146.html"
+        ],
+        "Full": "./data/book_data/full/jimushi.txt",
+        "Half": "./data/book_data/half/jimushi.txt",
+        "binData": "./data/book_data/binary/jimushi.pickle"
+    },
+    "kodaino_shojo": {
+        "Title": "\u53e4\u4ee3\u4e4b\u5c11\u5973",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000058/files/52381_53058.html"
+        ],
+        "Full": "./data/book_data/full/kodaino_shojo.txt",
+        "Half": "./data/book_data/half/kodaino_shojo.txt",
+        "binData": "./data/book_data/binary/kodaino_shojo.pickle"
+    },
+    "kairyu": {
+        "Title": "\u6d77\u6d41",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000311/files/1994_6528.html"
+        ],
+        "Full": "./data/book_data/full/kairyu.txt",
+        "Half": "./data/book_data/half/kairyu.txt",
+        "binData": "./data/book_data/binary/kairyu.pickle"
+    },
+    "chiyoko3": {
+        "Title": "\u5343\u4e16\u5b50\uff08\u4e09\uff09",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000311/files/15947_31498.html"
+        ],
+        "Full": "./data/book_data/full/chiyoko3.txt",
+        "Half": "./data/book_data/half/chiyoko3.txt",
+        "binData": "./data/book_data/binary/chiyoko3.pickle"
+    },
+    "dajokan": {
+        "Title": "\u592a\u653f\u5b98",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000248/files/51228_43444.html"
+        ],
+        "Full": "./data/book_data/full/dajokan.txt",
+        "Half": "./data/book_data/half/dajokan.txt",
+        "binData": "./data/book_data/binary/dajokan.pickle"
+    },
+    "kazeno_tayori": {
+        "Title": "\u98a8\u306e\u4fbf\u308a",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000035/files/283_15064.html"
+        ],
+        "Full": "./data/book_data/full/kazeno_tayori.txt",
+        "Half": "./data/book_data/half/kazeno_tayori.txt",
+        "binData": "./data/book_data/binary/kazeno_tayori.pickle"
+    },
+    "furyubutsu": {
+        "Title": "\u98a8\u6d41\u4ecf",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000051/files/2710_14020.html"
+        ],
+        "Full": "./data/book_data/full/furyubutsu.txt",
+        "Half": "./data/book_data/half/furyubutsu.txt",
+        "binData": "./data/book_data/binary/furyubutsu.pickle"
+    },
+    "jigokuhen_shinji": {
+        "Title": "\u5730\u7344\u5909",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000879/files/61_15130.html",
+            "https://www.aozora.gr.jp/cards/000879/files/60_15129.html"
+        ],
+        "Full": "./data/book_data/full/jigokuhen_shinji.txt",
+        "Half": "./data/book_data/half/jigokuhen_shinji.txt",
+        "binData": "./data/book_data/binary/jigokuhen_shinji.pickle"
+    },
+    "bakufu": {
+        "Title": "\u7011\u5e03",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000291/files/24363_19229.html"
+        ],
+        "Full": "./data/book_data/full/bakufu.txt",
+        "Half": "./data/book_data/half/bakufu.txt",
+        "binData": "./data/book_data/binary/bakufu.pickle"
+    },
+    "koo_ubau": {
+        "Title": "\u5b50\u3092\u596a\u3046",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000906/files/42408_32965.html"
+        ],
+        "Full": "./data/book_data/full/koo_ubau.txt",
+        "Half": "./data/book_data/half/koo_ubau.txt",
+        "binData": "./data/book_data/binary/koo_ubau.pickle"
+    },
+    "kainno_matsuei": {
+        "Title": "\u30ab\u30a4\u30f3\u306e\u672b\u88d4",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000025/files/204_19524.html"
+        ],
+        "Full": "./data/book_data/full/kainno_matsuei.txt",
+        "Half": "./data/book_data/half/kainno_matsuei.txt",
+        "binData": "./data/book_data/binary/kainno_matsuei.pickle"
+    },
+    "ginga_matsuri": {
+        "Title": "\u9280\u6cb3\u307e\u3064\u308a",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001562/files/52441_49987.html"
+        ],
+        "Full": "./data/book_data/full/ginga_matsuri.txt",
+        "Half": "./data/book_data/half/ginga_matsuri.txt",
+        "binData": "./data/book_data/binary/ginga_matsuri.pickle"
+    },
+    "hikageno_machi": {
+        "Title": "\u65e5\u852d\u306e\u8857",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000308/files/46589_25539.html"
+        ],
+        "Full": "./data/book_data/full/hikageno_machi.txt",
+        "Half": "./data/book_data/half/hikageno_machi.txt",
+        "binData": "./data/book_data/binary/hikageno_machi.pickle"
+    },
+    "arajotai": {
+        "Title": "\u65b0\u4e16\u5e2f",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000023/files/1700_43436.html"
+        ],
+        "Full": "./data/book_data/full/arajotai.txt",
+        "Half": "./data/book_data/half/arajotai.txt",
+        "binData": "./data/book_data/binary/arajotai.pickle"
+    },
+    "akai_kasha": {
+        "Title": "\u8d64\u3044\u8ca8\u8eca",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000311/files/1978_6567.html"
+        ],
+        "Full": "./data/book_data/full/akai_kasha.txt",
+        "Half": "./data/book_data/half/akai_kasha.txt",
+        "binData": "./data/book_data/binary/akai_kasha.pickle"
+    },
+    "haiirono_meno_onna": {
+        "Title": "\u7070\u8272\u306e\u773c\u306e\u5973",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001157/files/49847_46683.html"
+        ],
+        "Full": "./data/book_data/full/haiirono_meno_onna.txt",
+        "Half": "./data/book_data/half/haiirono_meno_onna.txt",
+        "binData": "./data/book_data/binary/haiirono_meno_onna.pickle"
+    },
+    "inakaishino_ko": {
+        "Title": "\u7530\u820e\u533b\u5e2b\u306e\u5b50",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001082/files/45648_27947.html"
+        ],
+        "Full": "./data/book_data/full/inakaishino_ko.txt",
+        "Half": "./data/book_data/half/inakaishino_ko.txt",
+        "binData": "./data/book_data/binary/inakaishino_ko.pickle"
+    },
+    "arizonano_metora": {
+        "Title": "\u30a2\u30ea\u30be\u30ca\u306e\u5973\u864e",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000304/files/46409_23858.html"
+        ],
+        "Full": "./data/book_data/full/arizonano_metora.txt",
+        "Half": "./data/book_data/half/arizonano_metora.txt",
+        "binData": "./data/book_data/binary/arizonano_metora.pickle"
+    },
+    "kochono_nageki": {
+        "Title": "\u9ec4\u9ce5\u306e\u5606\u304d",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000260/files/1432_20141.html"
+        ],
+        "Full": "./data/book_data/full/kochono_nageki.txt",
+        "Half": "./data/book_data/half/kochono_nageki.txt",
+        "binData": "./data/book_data/binary/kochono_nageki.pickle"
+    },
+    "chinurareta_kaito": {
+        "Title": "\u8840\u306c\u3089\u308c\u305f\u61d0\u5200",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000255/files/43748_18691.html"
+        ],
+        "Full": "./data/book_data/full/chinurareta_kaito.txt",
+        "Half": "./data/book_data/half/chinurareta_kaito.txt",
+        "binData": "./data/book_data/binary/chinurareta_kaito.pickle"
+    },
+    "fuji": {
+        "Title": "\u5bcc\u58eb",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000076/files/440_14483.html"
+        ],
+        "Full": "./data/book_data/full/fuji.txt",
+        "Half": "./data/book_data/half/fuji.txt",
+        "binData": "./data/book_data/binary/fuji.pickle"
+    },
+    "junsa_jishoku": {
+        "Title": "\u5de1\u67fb\u8f9e\u8077",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000096/files/920_22035.html"
+        ],
+        "Full": "./data/book_data/full/junsa_jishoku.txt",
+        "Half": "./data/book_data/half/junsa_jishoku.txt",
+        "binData": "./data/book_data/binary/junsa_jishoku.pickle"
+    },
+    "arusono_kiseki": {
+        "Title": "\u3042\u308b\u50e7\u306e\u5947\u8e5f",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000214/files/43269_16697.html"
+        ],
+        "Full": "./data/book_data/full/arusono_kiseki.txt",
+        "Half": "./data/book_data/half/arusono_kiseki.txt",
+        "binData": "./data/book_data/binary/arusono_kiseki.pickle"
+    },
+    "eizono_shi": {
+        "Title": "\u6804\u8535\u306e\u6b7b",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000311/files/7908_33044.html"
+        ],
+        "Full": "./data/book_data/full/eizono_shi.txt",
+        "Half": "./data/book_data/half/eizono_shi.txt",
+        "binData": "./data/book_data/binary/eizono_shi.pickle"
+    },
+    "kanazuchi": {
+        "Title": "\u9244\u939a",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000096/files/922_22002.html"
+        ],
+        "Full": "./data/book_data/full/kanazuchi.txt",
+        "Half": "./data/book_data/half/kanazuchi.txt",
+        "binData": "./data/book_data/binary/kanazuchi.pickle"
+    },
+    "akuno_doigo": {
+        "Title": "\u300c\u60aa\u300d\u306e\u540c\u610f\u8a9e",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000183/files/45437_37941.html"
+        ],
+        "Full": "./data/book_data/full/akuno_doigo.txt",
+        "Half": "./data/book_data/half/akuno_doigo.txt",
+        "binData": "./data/book_data/binary/akuno_doigo.pickle"
+    },
+    "imado_shinju": {
+        "Title": "\u4eca\u6238\u5fc3\u4e2d",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000295/files/42145_53885.html"
+        ],
+        "Full": "./data/book_data/full/imado_shinju.txt",
+        "Half": "./data/book_data/half/imado_shinju.txt",
+        "binData": "./data/book_data/binary/imado_shinju.pickle"
+    },
+    "giketsu_kyoketsu": {
+        "Title": "\u7fa9\u8840\u4fa0\u8840",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000050/files/363_20915.html"
+        ],
+        "Full": "./data/book_data/full/giketsu_kyoketsu.txt",
+        "Half": "./data/book_data/half/giketsu_kyoketsu.txt",
+        "binData": "./data/book_data/binary/giketsu_kyoketsu.pickle"
+    },
+    "fukamifujinno_shi": {
+        "Title": "\u6df1\u898b\u592b\u4eba\u306e\u6b7b",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000082/files/45491_24688.html"
+        ],
+        "Full": "./data/book_data/full/fukamifujinno_shi.txt",
+        "Half": "./data/book_data/half/fukamifujinno_shi.txt",
+        "binData": "./data/book_data/binary/fukamifujinno_shi.pickle"
+    },
+    "hitoashi_osakini": {
+        "Title": "\u4e00\u8db3\u304a\u5148\u306b",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000096/files/2111_22259.html"
+        ],
+        "Full": "./data/book_data/full/hitoashi_osakini.txt",
+        "Half": "./data/book_data/half/hitoashi_osakini.txt",
+        "binData": "./data/book_data/binary/hitoashi_osakini.pickle"
+    },
+    "2000nen_senso": {
+        "Title": "\u4e8c\u3001\u3007\u3007\u3007\u5e74\u6226\u4e89",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000160/files/3232_11264.html"
+        ],
+        "Full": "./data/book_data/full/2000nen_senso.txt",
+        "Half": "./data/book_data/half/2000nen_senso.txt",
+        "binData": "./data/book_data/binary/2000nen_senso.pickle"
+    },
+    "ad_balloon": {
+        "Title": "\u30a2\u30c9\u30fb\u30d0\u30eb\u30fc\u30f3",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000040/files/42688_45503.html"
+        ],
+        "Full": "./data/book_data/full/ad_balloon.txt",
+        "Half": "./data/book_data/half/ad_balloon.txt",
+        "binData": "./data/book_data/binary/ad_balloon.pickle"
+    },
+    "henna_otoko": {
+        "Title": "\u5909\u306a\u7537",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000906/files/42420_22928.html"
+        ],
+        "Full": "./data/book_data/full/henna_otoko.txt",
+        "Half": "./data/book_data/half/henna_otoko.txt",
+        "binData": "./data/book_data/binary/henna_otoko.pickle"
+    },
+    "aoonino_fundoshi": {
+        "Title": "\u9752\u9b3c\u306e\u890c\u3092\u6d17\u3046\u5973",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/001095/files/42877_27761.html"
+        ],
+        "Full": "./data/book_data/full/aoonino_fundoshi.txt",
+        "Half": "./data/book_data/half/aoonino_fundoshi.txt",
+        "binData": "./data/book_data/binary/aoonino_fundoshi.pickle"
+    },
+    "hitotsubokan": {
+        "Title": "\u4e00\u576a\u9928",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000160/files/2684_23972.html"
+        ],
+        "Full": "./data/book_data/full/hitotsubokan.txt",
+        "Half": "./data/book_data/half/hitotsubokan.txt",
+        "binData": "./data/book_data/binary/hitotsubokan.pickle"
+    },
+    "komo_keisei": {
+        "Title": "\u7d05\u6bdb\u50be\u57ce",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000125/files/43653_17366.html"
+        ],
+        "Full": "./data/book_data/full/komo_keisei.txt",
+        "Half": "./data/book_data/half/komo_keisei.txt",
+        "binData": "./data/book_data/binary/komo_keisei.pickle"
+    },
+    "kumowa_tensai": {
+        "Title": "\u96f2\u306f\u5929\u624d\u3067\u3042\u308b",
+        "WebLink": [
+            "https://www.aozora.gr.jp/cards/000153/files/4097_9491.html",
+            "https://www.aozora.gr.jp/cards/000153/files/45462_32210.html"
+        ],
+        "Full": "./data/book_data/full/kumowa_tensai.txt",
+        "Half": "./data/book_data/half/kumowa_tensai.txt",
+        "binData": "./data/book_data/binary/kumowa_tensai.pickle"
+    }
+}
